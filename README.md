@@ -84,7 +84,7 @@
 
 
 <br clear="both">
-
+  <h1>Social Links</h1><br>
 <div align="center">
   <a href="yeshanbi.samarakoon@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
@@ -95,12 +95,13 @@
   <a href="http://medium.com/@yeshanbi.samarakoon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="medium logo"  />
   </a>
-</div>
+</div><br><br>
+
+
+![](https://github-readme-stats.vercel.app/api?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=YeshanSamarakoon&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshansamarakoon&show_icons=true&locale=en&layout=compact" alt="yeshansamarakoon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshansamarakoon&show_icons=true&locale=en" alt="yeshansamarakoon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshansamarakoon&" alt="yeshansamarakoon" /></p>

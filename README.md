@@ -4,22 +4,21 @@
 </h1>
 <h2 align="center"><br><br> A Passionate front-end Developer, UI/UX Designer and an Animator obsessed with about 3D Vision.</h2><br><br>
 
-<div>
-  <div>
+<div style="display: flex; align-items: center;">
+  <div tyle="flex: 1;">
     <img width="35%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
   </div>
-      <div align="left">
+      <div align="left" style="flex: 2; padding-left: 20px;">
     
 - 🔭 I’m currently working on **Web Development**<br>
-- 🌱 I’m currently learning **Golang and Competitive Programming**<br>
-- 👯 I’m looking to collaborate on **Web Development**<br>
+- 🌱 I’m currently learning **3D web Development with ThreeJS**<br>
+- 👯 I’m looking to collaborate on **Web Development , UI/UX Designing**<br>
 - 🤔 I’m looking for with **Internships**<br>
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.<br>
-- 😄 Pronouns : **He/Him/His**<br>
-      <div>
+      </div>
 </div>
 
-<br><br><br>
+<br><br><br><br><br><br>
+
 <h1 align="center">SKILLS <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -80,11 +79,7 @@
   
 </div>
 
-###
 
-
-
-###
 
 <br clear="both">
 

@@ -2,24 +2,26 @@
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+!✌️,I'm+YESHAN;Thanks+For+Visiting+My+Page.;"></a>
 </h1>
-<h2 align="center"><br><br> A Passionate front-end Developer, UI/UX Designer and an Animator obsessed with about 3D Vision.</h2><br><br>
+
+<h1 align="center" font-weight="bold"><img align="venter" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+  About me<br><br></h1> <br> <h2 align="center"> A Passionate front-end Developer, UI/UX Designer and an Animator obsessed with about 3D Vision.</h2><br>
 
 <div style="display: flex; align-items: center;">
   <div tyle="flex: 1;">
     <img width="35%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
   </div>
       <div align="left" style="flex: 2; padding-left: 20px;">
-    
-- 🔭 I’m currently working on **Web Development**<br>
-- 🌱 I’m currently learning **3D web Development with ThreeJS**<br>
-- 👯 I’m looking to collaborate on **Web Development , UI/UX Designing**<br>
-- 🤔 I’m looking for with **Internships**<br>
+- 🧑🏼‍🎓 An undergraduate student in University of Vavuniya <br>   
+- 🔭 I’m currently working on Web Development<br>
+- 🌱 I’m currently learning 3D web Development with ThreeJS<br>
+- 👯 I’m looking to collaborate on Web Development , UI/UX Designing<br>
+- 🤔 I’m looking for with Internships<br>
       </div>
 </div>
 
 <br><br><br><br><br><br>
-
-<h1 align="center">SKILLS <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h1>
+<div>
+<h1 align="Left">SKILLS <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"></h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -76,7 +78,7 @@
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  
+  </div>
 </div>
 
 

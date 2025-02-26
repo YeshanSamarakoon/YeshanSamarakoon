@@ -14,7 +14,7 @@
 - 🧑🏼‍🎓 An undergraduate student in University of Vavuniya <br>   
 - 🔭 I’m currently working on Web Development<br>
 - 🌱 I’m currently learning 3D web Development with ThreeJS<br>
-- 👯 I’m looking to collaborate on Web Development , UI/UX Designing<br>
+- 👯 I’m looking to collaborate on Front-end Development , UI/UX Designing<br>
 - 🤔 I’m looking for with Internships<br>
       </div>
 </div>

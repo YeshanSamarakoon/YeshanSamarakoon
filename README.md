@@ -98,4 +98,9 @@
 </div>
 
 
-###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeshansamarakoon&show_icons=true&locale=en&layout=compact" alt="yeshansamarakoon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshansamarakoon&show_icons=true&locale=en" alt="yeshansamarakoon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshansamarakoon&" alt="yeshansamarakoon" /></p>

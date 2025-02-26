@@ -89,8 +89,8 @@
 <h1 align="center">My Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" width="300" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YeshanSamarakoon&theme=shadow_blue&hide_border=false" width="300" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" width="350" height="200" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YeshanSamarakoon&theme=shadow_blue&hide_border=false" width="350" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="300" height="150" />
 </div>
 

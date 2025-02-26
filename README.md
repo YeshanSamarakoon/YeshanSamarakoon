@@ -84,23 +84,15 @@
 
 
 <br clear="both">
-  <h1>Social Links</h1><br>
+
+
+<h1 align="center">My Stats</h1>
+
 <div align="center">
-  <a href="yeshanbi.samarakoon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yeshan-samarakoon-31a803294/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-  </a>
-  <a href="http://medium.com/@yeshanbi.samarakoon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="medium logo"  />
-  </a>
-</div><br><br>
-
-
-![](https://github-readme-stats.vercel.app/api?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=YeshanSamarakoon&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YeshanSamarakoon&theme=shadow_blue&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshanSamarakoon&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
 
 

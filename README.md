@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center" font-weight="bold"><img align="venter" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-  About me<br><br></h1> <br> <h2 align="center"> A Passionate front-end Developer, UI/UX Designer and an Animator obsessed with about 3D Vision.</h2><br>
+  About me<br><br></h1> <br> <h2 align="center"> A Passionate front-end Developer, UI/UX Designer and an Animator obsessed about 3D Vision.</h2><br>
 
 <div style="display: flex; align-items: center;">
   <div tyle="flex: 1;">

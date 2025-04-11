@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center" font-weight="bold"><img align="venter" src = "https://i.gifer.com/37Ft.gif" width = 100px height=100px>
-  About me<h1 align="center" font-weight="bold"></h1><img align="venter" src = "https://i.gifer.com/4M4x.gif" width = 50px height=50px><br><br> <br> <h2 align="center"> A Passionate front-end Developer, UI/UX Designer and an Animator obsessed about 3D Vision.</h2><br>
+  About me <img align="venter" src = "https://i.gifer.com/4M4x.gif" width = 50px height=50px><h1 align="center" font-weight="bold"></h1><br><br> <br> <h2 align="center"> A Passionate front-end Developer, UI/UX Designer and an Animator obsessed about 3D Vision.</h2><br>
 
 <div style="display: flex; align-items: center;">
   <div tyle="flex: 1;">

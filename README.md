@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+!✌️,I'm+YESHAN;Thanks+For+Visiting+My+Page.;"></a>
 </h1>
 
-<h1 align="center" font-weight="bold"><img align="venter" src = "https://i.gifer.com/37Ft.gif" width = 100px height=100px>
+<h1 align="center" font-weight="bold"><img align="venter" src = "https://i.gifer.com/5Myt.gif" width = 100px height=100px>
   About me<img align="venter" src = "https://i.gifer.com/5Myt.gif" width = 100px height=100px> <h1 align="center" font-weight="bold"></h1><br><br> <br> <h2 align="center"> A Passionate front-end Developer, UI/UX Designer and an Animator obsessed about 3D Vision.</h2><br>
 
 <div style="display: flex; align-items: center;">
